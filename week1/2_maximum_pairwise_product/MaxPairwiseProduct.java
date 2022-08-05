@@ -45,6 +45,8 @@ public class MaxPairwiseProduct {
             numbers[i] = scanner.nextInt();
         }
         System.out.println(getMaxPairwiseProductFast(numbers));
+      //  System.out.println(getMaxPairwiseProduct(numbers));
+    
         
         // Stress Testing....
         /*
