@@ -1,1 +1,0 @@
-4_least_common_multiple
