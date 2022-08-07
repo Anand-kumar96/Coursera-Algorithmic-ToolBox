@@ -1,0 +1,1 @@
+8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers
